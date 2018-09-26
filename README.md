@@ -25,5 +25,5 @@ This is a collection of research and review papers of dada mining that I have re
 ### Mathematics
 * [The Distribution of Sums of Certain I.I.D. Pareto Variates](https://www.tandfonline.com/doi/pdf/10.1080/03610920500476325) by Colin M. Ramsay, Communications in Statistics—Theory and Methods, 2006.
 
-###Probabilistic Graphical Models
+### Probabilistic Graphical Models
 * [Iterative Classification in Relational Data](http://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-007.pdf) by Jennifer Neville and David Jensen, AAAI 2000.
