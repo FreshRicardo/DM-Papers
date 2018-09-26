@@ -8,6 +8,8 @@ This is a collection of research and review papers of dada mining that I have re
 * [Review Papers](https://github.com/FreshRicardo/DM-Papers#review-papers)
 * [Research Papers](https://github.com/FreshRicardo/DM-Papers#research-papers)
   * [Representation Learning](https://github.com/FreshRicardo/DM-Papers#representation-learning)
+  * [Mathematics](https://github.com/FreshRicardo/DM-Papers#mathematics)
+  * [Probabilistic Graphical Models](https://github.com/FreshRicardo/DM-Papers#probabilistic-graphical-models)
 
 
 
@@ -19,3 +21,9 @@ This is a collection of research and review papers of dada mining that I have re
 
 ### Representation Learning
 * [DeepWalk: Online Learning of Social Representations](http://perozzi.net/publications/14_kdd_deepwalk.pdf) by Bryan Perozzi, Rami Al-Rfou, Steven Skiena, KDD 2014. [MAP](https://www.xmind.net/m/wnPg/)
+
+### Mathematics
+* [The Distribution of Sums of Certain I.I.D. Pareto Variates](https://www.tandfonline.com/doi/pdf/10.1080/03610920500476325) by Colin M. Ramsay, Communications in Statistics—Theory and Methods, 2006.
+
+###Probabilistic Graphical Models
+* [Iterative Classification in Relational Data](http://www.aaai.org/Papers/Workshops/2000/WS-00-06/WS00-06-007.pdf) by Jennifer Neville and David Jensen, AAAI 2000.
